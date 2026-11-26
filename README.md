@@ -21,7 +21,7 @@ Each feature set is clustered with Ward agglomerative clustering and K-Means. A 
 
 ## Reproducing the results
 1. Open the notebook in Google Colab.
-2. Set `USE_CACHED_SNAPSHOT = True` to load the preserved snapshot (retrieved 2026-11-26 16:38:23 UTC).
+2. Set `USE_CACHED_SNAPSHOT = True` to load the preserved snapshot (retrieved 2026-11-26 16:38:23 UTC)
 3. Select **Runtime → Run all**.
 
 **Environment:** Python 3.13 · pandas 2.2.3 · numpy 2.4.6 · yfinance 0.2.66 · scipy 1.16.3 · scikit-learn 1.6.1 · matplotlib 3.10.0 · seaborn 0.13.2
